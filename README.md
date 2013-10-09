@@ -15,35 +15,26 @@ http://realmofthemadgod.appspot.com
 ===
 POST request
 
-    guid
-random letters or numbers
+`guid` random letters or numbers
 
-    newGUID
-account email
+`newGUID` account email
 
-    ignore
-random number
+`ignore` random number
 
-    newPassword
-account password
+`newPassword` account password
 
-    isAgeVerified
-value: 1
+`isAgeVerified` value: 1
 
 
 /account/setName
 ===
 POST request
 
-    guid
-  account email
+`guid` account email
 
-    ignore
-  random number
+`ignore` random number
 
-    password
-  account password
+`password` account password
 
-    name
-  character name
+`name` character name
 
