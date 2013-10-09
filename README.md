@@ -41,6 +41,8 @@ POST request
 
 account/changePassword
 ===
+POST request
+
 `guid` account email
 
 `ignore` random number
