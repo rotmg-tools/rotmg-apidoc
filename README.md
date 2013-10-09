@@ -1,7 +1,7 @@
 rotmg-apidoc
 ============
 
-rotmg api documentation
+A list of methods supported by the RotMG API.
 
 
 
