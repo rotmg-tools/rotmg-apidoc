@@ -38,3 +38,13 @@ POST request
 
 `name` character name
 
+
+account/changePassword
+===
+`guid` account email
+
+`ignore` random number
+
+`password` account password
+
+`newPassword` new account password
