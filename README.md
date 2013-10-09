@@ -13,13 +13,11 @@ http://realmofthemadgod.appspot.com
 
 /account/register
 ===
-POST
-
-fields:
+POST request
 
     guid
 random letters or numbers
-  #email of mule 	
+
     newGUID
 account email
 
@@ -31,3 +29,21 @@ account password
 
     isAgeVerified
 value: 1
+
+
+/account/setName
+===
+POST request
+
+    guid
+  account email
+
+    ignore
+  random number
+
+    password
+  account password
+
+    name
+  character name
+
