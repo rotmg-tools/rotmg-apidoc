@@ -5,7 +5,7 @@ A list of methods supported by the RotMG API.
 
 
 
-BASE URI
+BASE URL
 ===
 http://realmofthemadgod.appspot.com
 
@@ -39,7 +39,7 @@ POST request
 `name` character name
 
 
-account/changePassword
+/account/changePassword
 ===
 POST request
 
