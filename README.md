@@ -52,10 +52,7 @@ POST request
 `newPassword` new account password
 
 
-References
-===
-http://www.mpgh.net/forum/720-realm-mad-god-tutorials-source-code/717144-how-make-mule-really-fast.html#post8604346
-
-http://www.mpgh.net/forum/720-realm-mad-god-tutorials-source-code/742157-change-email-via-http-just-like-account-creation.html#post8841898
-
-http://www.mpgh.net/forum/720-realm-mad-god-tutorials-source-code/659194-multithreaded-mass-mule-password-changer-written-perl.html#post8045682
+#### References
+ * http://www.mpgh.net/forum/720-realm-mad-god-tutorials-source-code/717144-how-make-mule-really-fast.html#post8604346
+ * http://www.mpgh.net/forum/720-realm-mad-god-tutorials-source-code/742157-change-email-via-http-just-like-account-creation.html#post8841898
+ * http://www.mpgh.net/forum/720-realm-mad-god-tutorials-source-code/659194-multithreaded-mass-mule-password-changer-written-perl.html#post8045682
